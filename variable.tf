@@ -7,7 +7,7 @@ variable "key_name" {
 }
 
 variable "key_path" {
-  default = "D:/Mine/awskeys/stagingPEM.pem"
+  default = "D:\keys/docker.pem"
 }
 
 variable "instance_type" {
