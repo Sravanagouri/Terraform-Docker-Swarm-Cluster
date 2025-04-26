@@ -7,7 +7,7 @@ variable "key_name" {
 }
 
 variable "key_path" {
-  default = "D:\keys/docker.pem"
+  default = "D:/keys/docker.pem"
 }
 
 variable "instance_type" {
